@@ -1,0 +1,192 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "locale": "en",
+      "name": "English",
+      "name_local": "English"
+    },
+    {
+      "code": "bg",
+      "locale": "bg",
+      "name": "Bulgarian",
+      "name_local": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438",
+      "percent_translated": 29
+    },
+    {
+      "code": "ca",
+      "locale": "ca",
+      "name": "Catalan",
+      "name_local": "catal\u00e0",
+      "percent_translated": 8
+    },
+    {
+      "code": "cs",
+      "locale": "cs",
+      "name": "Czech",
+      "name_local": "\u010desky",
+      "percent_translated": 98
+    },
+    {
+      "code": "de",
+      "locale": "de",
+      "name": "German",
+      "name_local": "Deutsch",
+      "percent_translated": 96
+    },
+    {
+      "code": "en-gb",
+      "locale": "en_GB",
+      "name": "British English",
+      "name_local": "British English",
+      "percent_translated": 100
+    },
+    {
+      "code": "es",
+      "locale": "es",
+      "name": "Spanish",
+      "name_local": "espa\u00f1ol",
+      "percent_translated": 100
+    },
+    {
+      "code": "fi",
+      "locale": "fi",
+      "name": "Finnish",
+      "name_local": "suomi",
+      "percent_translated": 66
+    },
+    {
+      "code": "fr",
+      "locale": "fr",
+      "name": "French",
+      "name_local": "fran\u00e7ais",
+      "percent_translated": 81
+    },
+    {
+      "code": "gl",
+      "locale": "gl",
+      "name": "Galician",
+      "name_local": "galego",
+      "percent_translated": 7
+    },
+    {
+      "code": "hi",
+      "locale": "hi",
+      "name": "Hindi",
+      "name_local": "Hindi",
+      "percent_translated": 23
+    },
+    {
+      "code": "hu",
+      "locale": "hu",
+      "name": "Hungarian",
+      "name_local": "Magyar",
+      "percent_translated": 35
+    },
+    {
+      "code": "id-id",
+      "locale": "id_ID",
+      "name": "Indonesian",
+      "name_local": "Indonesia",
+      "percent_translated": 46
+    },
+    {
+      "code": "it",
+      "locale": "it",
+      "name": "Italian",
+      "name_local": "italiano",
+      "percent_translated": 92
+    },
+    {
+      "code": "ja",
+      "locale": "ja",
+      "name": "Japanese",
+      "name_local": "\u65e5\u672c\u8a9e",
+      "percent_translated": 57
+    },
+    {
+      "code": "ko",
+      "locale": "ko",
+      "name": "Korean",
+      "name_local": "\ud55c\uad6d\uc5b4",
+      "percent_translated": 77
+    },
+    {
+      "code": "ml",
+      "locale": "ml",
+      "name": "Malayalam",
+      "name_local": "Malayalam",
+      "percent_translated": 10
+    },
+    {
+      "code": "nl",
+      "locale": "nl",
+      "name": "Dutch",
+      "name_local": "Nederlands",
+      "percent_translated": 41
+    },
+    {
+      "code": "pl",
+      "locale": "pl",
+      "name": "Polish",
+      "name_local": "polski",
+      "percent_translated": 44
+    },
+    {
+      "code": "pt",
+      "locale": "pt",
+      "name": "Portuguese",
+      "name_local": "Portugu\u00eas",
+      "percent_translated": 96
+    },
+    {
+      "code": "ru",
+      "locale": "ru",
+      "name": "Russian",
+      "name_local": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+      "percent_translated": 80
+    },
+    {
+      "code": "sr",
+      "locale": "sr",
+      "name": "Serbian",
+      "name_local": "\u0441\u0440\u043f\u0441\u043a\u0438",
+      "percent_translated": 6
+    },
+    {
+      "code": "ta",
+      "locale": "ta",
+      "name": "Tamil",
+      "name_local": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+      "percent_translated": 9
+    },
+    {
+      "code": "tr",
+      "locale": "tr",
+      "name": "Turkish",
+      "name_local": "T\u00fcrk\u00e7e",
+      "percent_translated": 92
+    },
+    {
+      "code": "uk",
+      "locale": "uk",
+      "name": "Ukrainian",
+      "name_local": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
+      "percent_translated": 92
+    },
+    {
+      "code": "zh-hans",
+      "locale": "zh_Hans",
+      "name": "Simplified Chinese",
+      "name_local": "\u7b80\u4f53\u4e2d\u6587",
+      "percent_translated": 96
+    },
+    {
+      "code": "zh-hant",
+      "locale": "zh_Hant",
+      "name": "Traditional Chinese",
+      "name_local": "\u7e41\u9ad4\u4e2d\u6587",
+      "percent_translated": 13
+    }
+  ]
+}
